@@ -1,0 +1,29 @@
+
+.login{
+    margin-top: 5%;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+}
+#show{
+    display: none;
+}
+.deposit{
+    background-color: slateblue;
+}
+.withdraw{
+    background-color: lightsalmon;
+}
+.balance{
+    background-color: orange;
+}
+.status{
+    margin: 0 20px;
+    border-radius: 10px;
+    color: white;
+    padding: 20px 10px;
+}
+.card{
+    margin-top: 5%;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+}
